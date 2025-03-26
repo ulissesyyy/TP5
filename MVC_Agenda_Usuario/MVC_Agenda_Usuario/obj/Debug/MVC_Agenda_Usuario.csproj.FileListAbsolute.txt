@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\obj\Debug\MVC_Agenda_Usuario.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\obj\Debug\MVC_Agenda_Usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\obj\Debug\MVC_Agenda_Usuario.Properties.Resources.resources
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\obj\Debug\MVC_Agenda_Usuario.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\obj\Debug\MVC_Agenda_Usuario.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\bin\Debug\MVC_Agenda_Usuario.exe.config
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\bin\Debug\MVC_Agenda_Usuario.exe
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\bin\Debug\MVC_Agenda_Usuario.pdb
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\obj\Debug\MVC_Agenda_Usuario.Form1.resources
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\obj\Debug\MVC_Agenda_Usuario.exe
+C:\Users\unisanta\Desktop\MVC_Agenda_Usuario\MVC_Agenda_Usuario\obj\Debug\MVC_Agenda_Usuario.pdb
