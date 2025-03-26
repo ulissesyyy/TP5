@@ -1,0 +1,10 @@
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\bin\Debug\MVC_Login_2.exe.config
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\bin\Debug\MVC_Login_2.exe
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\bin\Debug\MVC_Login_2.pdb
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\obj\Debug\MVC_Login_2.csproj.AssemblyReference.cache
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\obj\Debug\MVC_Login_2.Properties.Resources.resources
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\obj\Debug\MVC_Login_2.Form1.resources
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\obj\Debug\MVC_Login_2.csproj.GenerateResource.cache
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\obj\Debug\MVC_Login_2.csproj.CoreCompileInputs.cache
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\obj\Debug\MVC_Login_2.exe
+C:\Users\u\Desktop\MVC_Login_2\MVC_Login_2\obj\Debug\MVC_Login_2.pdb
